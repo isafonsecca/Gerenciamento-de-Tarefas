@@ -22,19 +22,19 @@ As seguintes ferramentas foram utilizadas no projeto
 - [x] Editar tarefa (título e descrição)
 - [ ] Infinite Scroll (a ser implementado)
 
-# Git LFS
+### Git LFS
 Foi configurado o Git LFS para rastrear arquivos da pasta "node_modules" e armazená-lo externamente pelo tamanho excessivo
 
 $ git lfs install
 $ git lfs track "node-modules/"
 
-# Acesse a pasta do projeto no terminal
+### Acesse a pasta do projeto no terminal
 $ cd projeto-gerenciamento-tarefas
 
-# Instale as deependencias
+### Instale as deependencias
 $ npm install
 
-# Execute a aplicação
+### Execute a aplicação
 $ npm run dev
 
-# O servidor iniciará na porta: 3000 - http://localhost:3000
+### O servidor iniciará na porta: 3000 - http://localhost:3000
