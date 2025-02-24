@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #EDE7E3;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #FFFAE3;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: "Gotham", Arial, Helvetica, sans-serif;
+}
+
+@font-face {
+  font-family: "Gotham";
+  src: url("/fonts/Gotham-Regular.woff2") format("woff2"),
+       url("/fonts/Gotham-Regular.woff") format("woff"),
+       url("/fonts/Gotham-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gotham";
+  src: url("/fonts/Gotham-Bold.woff2") format("woff2"),
+       url("/fonts/Gotham-Bold.woff") format("woff"),
+       url("/fonts/Gotham-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
