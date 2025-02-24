@@ -20,7 +20,13 @@ As seguintes ferramentas foram utilizadas no projeto
 - [x] Concluir tarefa
 - [x] Deletar tarefa
 - [x] Editar tarefa (título e descrição)
-- [] Infinite Scroll (a ser implementado)
+- [ ] Infinite Scroll (a ser implementado)
+
+# Git LFS
+Foi configurado o Git LFS para rastrear arquivos da pasta "node_modules" e armazená-lo externamente pelo tamanho excessivo
+
+$ git lfs install
+$ git lfs track "node-modules/"
 
 # Acesse a pasta do projeto no terminal
 $ cd projeto-gerenciamento-tarefas
