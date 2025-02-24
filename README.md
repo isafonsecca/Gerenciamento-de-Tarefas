@@ -26,6 +26,7 @@ As seguintes ferramentas foram utilizadas no projeto
 Foi configurado o Git LFS para rastrear arquivos da pasta "node_modules" e armazená-lo externamente pelo tamanho excessivo
 
 $ git lfs install
+
 $ git lfs track "node-modules/"
 
 ### Acesse a pasta do projeto no terminal
