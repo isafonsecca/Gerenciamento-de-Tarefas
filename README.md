@@ -41,5 +41,5 @@ $ npm run dev
 ### O servidor iniciará na porta: 3000 - http://localhost:3000
 
 ### 📷 Preview
-<img src="https://imgur.com/a/8W5E70p.png" alt="Imagem do Imgur" width="400"/>
+<img src="https://i.imgur.com/8W5E70p.png" alt="Imagem do Imgur" width="400"/>
 
