@@ -32,7 +32,7 @@ $ git lfs track "node-modules/"
 ### Acesse a pasta do projeto no terminal
 $ cd projeto-gerenciamento-tarefas
 
-### Instale as deependencias
+### Instale as dependências
 $ npm install
 
 ### Execute a aplicação
