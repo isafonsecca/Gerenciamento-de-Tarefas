@@ -1,4 +1,4 @@
-# Aplicação Gerenciamento de Tarefas
+# Aplicação Gerenciamento de Tarefas CRUD
 
 O projeto tem como objetivo desenvolver uma aplicação fullstack utilizando as tecnologias Next.JS e tRPC para a integração. A aplicação permite a criação de tarefas com operações CRUD, oferece um layout simples e objetivo, mas com foco em trazer uma boa experiência pro usuário.
 
